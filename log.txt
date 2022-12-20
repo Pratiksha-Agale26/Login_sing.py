@@ -1,0 +1,12 @@
+name :-Pratiksha
+last_name :-Agale
+passwordPratu@8411
+email id :-pratiksha@21navgurukul.org
+name :-pratiksha
+last_name :-Agale
+passwordpratiksha@12
+email id :-pratiksha@21navgurukul.org
+name :-Mayuri
+last_name :-jadhav
+passwordmayu@123
+email id :-mayurij@21navgurukul.org
